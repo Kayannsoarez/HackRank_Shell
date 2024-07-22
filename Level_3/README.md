@@ -6,3 +6,6 @@ In this challenge, we practice using the head command to display the first n cha
 
 ### Problem_23:
 Display the lines (from line number 12 to 22, both inclusive) of a given text file.
+
+### Problem_24:
+In this challenge, we practice using the tail command to display the last n lines of a text file. Display the last 20 lines of an input file.
